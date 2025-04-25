@@ -2,8 +2,8 @@
 
 Ce dépôt contient la solution complète pour le Travail Pratique (TP) sur Node.js et Express.js, couvrant les bases, le routage, les middlewares et la gestion des requêtes/réponses.
 
-**Étudiant:** [Ragoubi Ali]
-**Cours/Module:** [Node Js]
+**🧑‍💻 Étudiant:** Ragoubi Ali
+**📚 Cours/Module:** Node Js
 
 ---
 

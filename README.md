@@ -11,7 +11,7 @@ Ce dépôt contient la solution complète pour le Travail Pratique (TP) sur Node
 
 1.  **Cloner le dépôt (Optionnel):**
     ```bash
-    git clone https://github.com/VOTRE_NOM_UTILISATEUR/tp-expressjs-solution.git
+    git clone https://github.com/Ragoubize/tp-nodejs.git
     cd tp-expressjs-solution
     ```
 2.  **Installer les dépendances:** Assurez-vous d'avoir Node.js et npm installés. Exécutez la commande suivante dans le répertoire du projet :

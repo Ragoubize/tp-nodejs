@@ -12,7 +12,6 @@ Ce dépôt contient la solution complète pour le Travail Pratique (TP) sur Node
 1.  **Cloner le dépôt (Optionnel):**
     ```bash
     git clone https://github.com/Ragoubize/tp-nodejs.git
-    cd tp-expressjs-solution
     ```
 2.  **Installer les dépendances:** Assurez-vous d'avoir Node.js et npm installés. Exécutez la commande suivante dans le répertoire du projet :
     ```bash
@@ -78,7 +77,6 @@ Toutes les captures d'écran se trouvent dans le dossier `/screenshot`, organis�
 *   **Captures:**
     *   ![Routeur Utilisateurs (GET)](screenshot/page-2/EX-3/Get-router-users.png)
     *   ![Routeur Utilisateurs (POST)](screenshot/page-2/EX-3/Post-router-users.png)
-    *   *(Ajoutez ici d'autres captures si vous avez testé products ou la structure de fichier)*
 
 ---
 
@@ -122,7 +120,6 @@ Toutes les captures d'écran se trouvent dans le dossier `/screenshot`, organis�
     *   ![Formulaire Upload](screenshot/page-4/EX-2/gestion-ex2-form-upload.png)
     *   ![Upload Succès](screenshot/page-4/EX-2/gestion-ex2-upload-success.png)
     *   ![Dossier Uploads](screenshot/page-4/EX-2/gestion-ex2-uploads-folder.png)
-    *   *(Ajoutez la capture d'erreur si vous l'avez: `screenshot-gestion-ex2-upload-fail.png`)*
 
 #### Exercice 3: Négociation de Contenu (res.format)
 
@@ -131,6 +128,5 @@ Toutes les captures d'écran se trouvent dans le dossier `/screenshot`, organis�
     *   ![Réponse JSON](screenshot/page-4/EX-3/json.png)
     *   ![Réponse XML](screenshot/page-4/EX-3/xml.png)
     *   ![Réponse HTML](screenshot/page-4/EX-3/html.png)
-    *   *(Ajoutez la capture 406 si vous l'avez: `screenshot-gestion-ex3-not-acceptable.png`)*
 
 ---
